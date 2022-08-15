@@ -7,7 +7,7 @@
 |  5  | Rails     | [2022-03-17](https://github.com/decker-archive/api/commit/08f8ecb45e20014627295e1bb54c1a2644301d2c)         |
 |  6  | Factions  | [2022-03-21](https://github.com/concordchat/concord-api/commit/e539f7191fe8d70f9f8a77fb9a1b973541617a46)    |
 |  7  | Concord   | [2022-04-13](https://canary.discord.com/channels/881118111967883295/881118112492191796/963795519711367168)  |
-|  8  | Scales    | [2022-04-30](https://canary.discord.com/channels/881118111967883295/881118112492191796/969865722991869982)
+|  8  | Scales    | [2022-04-30](https://canary.discord.com/channels/881118111967883295/881118112492191796/969865722991869982)  |
 |  9  | Redux     | [2022-05-03](https://canary.discord.com/channels/881118111967883295/969836504128036864/970955845695324190)  |
 | 10  | Neoform   | [2022-05-19](https://github.com/concordchat/concord-api/commit/6c8003a077145dd9ae383b9b513fd685e6c2f066)    |
 | 11  | Mastadon  | [2022-05-23](https://canary.discord.com/channels/881118111967883295/881118112492191796/978299567256797234)  |
