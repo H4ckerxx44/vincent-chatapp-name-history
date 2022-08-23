@@ -1,6 +1,6 @@
 The rather turbulent name history of a chat app made by vincent.
 
-| No. | Name         | Date with link                                                                                              |
+| No. | Name         | Date with link                                                                                             |
 |:--:|:-------------|:------------------------------------------------------------------------------------------------------------|
 |  1 | Stancium     | [2021-12-08](https://github.com/decker-archive/api/commit/d37cab03ecc9ce0c4343052464a8006837c2bbe6)         |
 |  2 | Okemia/Hatsu | [2022-02-17](https://github.com/decker-archive/api/commit/bf0549264018319595e10b393a5762334cc4f31a)         |
@@ -25,3 +25,4 @@ The rather turbulent name history of a chat app made by vincent.
 | 21 | Telescope    | [2022-08-17](https://prnt.sc/vKodrdgCix6M)                                                                  |
 | 22 | Itch         | [2022-08-17](https://prnt.sc/FXkEyTVPULlS)                                                                  |
 | 23 | Derailed     | [2022-08-??](https://prnt.sc/kBW_ttEEzPnh)                                                                  |
+| 24 | Recorder     | [2022-08-23](https://prnt.sc/z8jW8QhW5lcL)                                                                  |
