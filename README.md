@@ -1,6 +1,6 @@
 The rather turbulent name history of a chat app made by vincent.
 
-| No. | Name         | Date with link                                                                                             |
+| No.| Name         | Date with link                                                                                              |
 |:--:|:-------------|:------------------------------------------------------------------------------------------------------------|
 |  1 | Stancium     | [2021-12-08](https://github.com/decker-archive/api/commit/d37cab03ecc9ce0c4343052464a8006837c2bbe6)         |
 |  2 | Okemia/Hatsu | [2022-02-17](https://github.com/decker-archive/api/commit/bf0549264018319595e10b393a5762334cc4f31a)         |
@@ -17,7 +17,7 @@ The rather turbulent name history of a chat app made by vincent.
 | 13 | Derailed     | [2022-07-05](https://github.com/decker-archive/backend/commit/7b6c9420a0267762e040e9a541f29a5747f96dcd)     |
 | 14 | Plufify      | [2022-07-09](https://github.com/decker-archive/backend/commit/b174d2af013095bce4d06961e25f3e268b013b6f)     |
 | 15 | Elasic       | [2022-08-06](https://github.com/deckerapp/decker-gateway/commit/c751b61b7da63877e231d15109d1358ddde11193)   |
-| 16 | Docked      | [2022-08-07](https://canary.discord.com/channels/881118111967883295/881118112492191796/1005799500956323861)  |
+| 16 | Docked       | [2022-08-07](https://canary.discord.com/channels/881118111967883295/881118112492191796/1005799500956323861) |
 | 17 | Discend      | [2022-08-09](https://canary.discord.com/channels/962194292296802334/988243874201862144/1006538875981799484) |
 | 18 | Snux         | [2022-08-11](https://canary.discord.com/channels/962194292296802334/988243874201862144/1007175454622490705) |
 | 19 | Couchhub     | [2022-08-13](https://github.com/deckerapp/decker-api/commit/ec2e9e191c3f599d1c4fbd8e8736be458967c487)       |
