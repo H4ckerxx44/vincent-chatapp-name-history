@@ -30,3 +30,4 @@ The rather turbulent name history of a chat app made by vincent.
 | 26 | Derailed     | [2022-08-28](https://prnt.sc/4Z6n3HfAwvUH)                                                                  |    
 | 27 | Felladex     | [2022-08-31](https://prnt.sc/Wv5QwdNWspzZ)                                                                  |
 | 28 | VINCENTCHAT  | [2022-09-01](https://prnt.sc/NDmSsU1PWa4W)                                                                  |
+| 29 | Derailed     | [2022-09-03](https://prnt.sc/7Lyr7dgc6zbn)                                                                  |
