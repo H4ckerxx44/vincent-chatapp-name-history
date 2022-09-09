@@ -33,4 +33,4 @@ The rather turbulent name history of a chat app made by vincent.
 | 29 | Derailed     | [2022-09-03](https://prnt.sc/7Lyr7dgc6zbn)                                                                  |
 | 30 | Bickerchat   | [2022-09-05](https://prnt.sc/XBgDmvX8T8-a)                                                                  |
 | 31 | Derailed     | [2022-09-05](https://prnt.sc/XVDv59_w4jKU)                                                                  |
-
+| 32 | Discend      | [2022-09-09](https://prnt.sc/6lIYAbxxSDVA)                                                                  |
