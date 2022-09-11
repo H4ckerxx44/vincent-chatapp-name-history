@@ -36,3 +36,4 @@ The rather turbulent name history of a chat app made by vincent.
 | 32 | Discend      | [2022-09-09](https://prnt.sc/6lIYAbxxSDVA)                                                                  |
 | 33 | Onamii       | [2022-09-09](https://prnt.sc/uq1wrYfPlPGW)                                                                  |
 | 34 | Derailed     | [2022-09-09](https://prnt.sc/ToTSTSPMKZkF)                                                                  |
+| 35 | Dunochat     | [2022-09-11](https://prnt.sc/ik8NJ2g_PEt1)                                                                  |
