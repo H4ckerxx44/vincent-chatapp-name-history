@@ -43,4 +43,5 @@ The rather turbulent name history of a chat app made by vincent.
 | 39 | Derailed     | [2022-09-12](https://prnt.sc/-_Jk_i1zQVm4)                                                                  | 0           |
 | 40 | Droided      | [2022-09-12](https://prnt.sc/TRxRfCQ703yA)                                                                  | 1           |
 | 41 | Derailed     | [2022-09-13](https://prnt.sc/IuAJ5YERqv2D)                                                                  | 79          |
-| 42 | Discoursy    | [2022-12-01](https://prnt.sc/ECAG_vXAaTWk)                                                                  | counting... |
+| 42 | Discoursy    | [2022-12-01](https://prnt.sc/ECAG_vXAaTWk)                                                                  | 16          |
+| 43 | Derailed     | [2022-12-17](https://prnt.sc/Szu0qAShTQaH)                                                                  | counting... |
