@@ -45,3 +45,57 @@ The rather turbulent name history of a chat app made by vincent.
 | 41 | Derailed     | [2022-09-13](https://prnt.sc/IuAJ5YERqv2D)                                                                  | 79          |
 | 42 | Discoursy    | [2022-12-01](https://prnt.sc/ECAG_vXAaTWk)                                                                  | 16          |
 | 43 | Derailed     | [2022-12-17](https://prnt.sc/Szu0qAShTQaH)                                                                  | counting... |
+
+
+```mermaid
+---
+title Names of Vincent's Chat App
+---
+flowchart TD
+
+Stancium[1. Stancium] --> okemiahatsu[2. Okemia / Hatsu]
+okemiahatsu --> Ayaka[3. Ayaka]
+Ayaka --> Vercal[4. Vercal]
+Vercal --> Rails[5. Rails]
+Rails --> Factions[6. Factions]
+Factions --> Concord[7., 25. Concord]
+Concord --> Scales[8. Scales]
+Scales --> Redux[9. Redux]
+Redux --> Neoform[10. Neoform]
+Neoform --> Mastadon[11. Mastadon]
+Mastadon --> Venera[12. Venera]
+Venera --> Derailed[13., 23., 26., 29., 31., 34., 39., 41., 43. Derailed]
+Derailed --> Plufify[14. Plufify]
+Plufify --> Elasic[15. Elasic]
+Elasic --> Docked[16. Docked]
+Docked --> Discend[17., 32. Discend]
+Discend --> Snux[18. Snux]
+Snux --> Couchhub[19. Couchhub]
+Couchhub --> Decker[20. Decker]
+Decker --> Telescope[21. Telescope]
+Telescope --> Itch[22. Itch]
+Itch --> Derailed
+Derailed --> Recorder[24. Recorder]
+Recorder --> Concord
+Concord --> Derailed
+Derailed --> Felladex[27. Felladex]
+Felladex --> VINCENTCHAT[28. VINCENTCHAT]
+VINCENTCHAT --> Derailed
+Derailed --> Bickerchat[30. Bickerchat]
+Bickerchat --> Derailed
+Derailed --> Discend
+Discend --> Onamii[33. Onamii]
+Onamii --> Derailed
+Derailed --> Dunochat[35. Dunochat]
+Dunochat --> Rousterapp[36. Rousterapp]
+Rousterapp --> Dunoio[37. Dunoio]
+Dunoio --> Dunerio[38. Dunerio]
+Dunerio --> Derailed
+Derailed --> Droided[40. Droided]
+Droided --> Derailed
+Derailed --> Discoursy[42. Discoursy]
+Discoursy --> Derailed
+```
+
+
+
