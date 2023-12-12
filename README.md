@@ -1,3 +1,5 @@
+## Moved over to [vincent-everything-org-name-history](https://github.com/H4ckerxx44/vincent-everything-org-name-history)
+
 The rather turbulent name history of a chat app made by vincent.
 
 | No.| Name         | Date with link                                                                                              | Days lasted        |
